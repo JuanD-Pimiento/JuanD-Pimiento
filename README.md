@@ -3,7 +3,7 @@
 
 # Achievements
 * Recognition of academic excellence in the following semesters:
-* * 2023-1 & 2023-2
+  * 2023-1 & 2023-2
   * 2024-1 & 2024-2
   * 2025-1
 * Academic Merit in 2025-2
