@@ -1,6 +1,12 @@
 # 💫 Hi, I am Juan Diego Pimiento
 ⚙️Mechatronic Engineer with knowledge in:<br>🧠AI and Computer Vision 📷<br>🤖Electronic Assistive Technology 🦾<br>🖥️Automation and Control Systems🏭<br><br>I'm currently researching<br>🐜Pest Population Dynamics as an Optimization problem using Control Systems Theory 🧮
 
+# Achievements
+* Recognition of academic excellence in the following semesters:
+* * 2023-1 & 2023-2
+  * 2024-1 & 2024-2
+  * 2025-1
+* Academic Merit in 2025-2
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-pimiento-0384b82a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juan.pimientoserrano@gmail.com) 
