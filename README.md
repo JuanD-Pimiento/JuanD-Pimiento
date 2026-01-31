@@ -6,7 +6,7 @@
   * 2023-1 & 2023-2
   * 2024-1 & 2024-2
   * 2025-1
-* Academic Merit in 2025-2
+* Academic Merit (in 2025-2) for achieving the highest cumulative grade average in the program.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-pimiento-0384b82a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juan.pimientoserrano@gmail.com) 
