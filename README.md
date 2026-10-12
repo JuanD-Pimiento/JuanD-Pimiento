@@ -1,15 +1,22 @@
 # 👨🏻‍💻 Hi, I am Juan Diego Pimiento
-⚙️Mechatronic Engineer with knowledge in:<br>🧠Data Analysis, AI and Computer Vision 📷<br>🤖Electronic Assistive Technology 🦾<br>🖥️Automation and Control Systems🏭<br><br>I'm currently researching<br>🐜Pest Population Dynamics as an Optimization problem using Control Systems Theory 🧮
+⚙️Mechatronic Engineer with knowledge in:<br>🧠Data Analysis, AI and Computer Vision 📷<br>🤖Electronic Assistive Technology 🦾<br>🖥️Automation and Control Systems🏭<br><br>
+I'm currently pursuing a Master of Science in Electrical Engineering, with focus in AI and Optimization, at PUC-RIO.
+
+I have researched in:
+<br>🐜Pest Population Dynamics as an Optimization problem using Control Systems Theory 🧮
+<br> 📡 Electromagnetic Compatibility (EMC) in Electrical Medical Equipment 🩺
 
 ## 🥇 Achievements
 ### Bachelor in Mechatronics Engineering
+* Cum Laude Recognition for achieving a cumulative grade average over 4.3 in the program.
+* Academic Merit (in 2025-2) for achieving the highest cumulative grade average in the program.
 * Recognition of academic excellence in the following semesters:
   * 2023-1 & 2023-2
   * 2024-1 & 2024-2
   * 2025-1
-* Academic Merit (in 2025-2) for achieving the highest cumulative grade average in the program.
 
 ## 📚 Research Papers
+* [Predicting CISPR 11 Radiated Emissions of Medical Electrical Equipment with a Pre-Compliance Simulation Workflow Using ANSYS HFSS](https://ieeexplore.ieee.org/document/11703479)
 * [Prototype of a device adaptable to walk-sticks with a system to communicate the visible spectrum to blind people](https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/article/view/411)
 
 ## 🌐 Socials:
